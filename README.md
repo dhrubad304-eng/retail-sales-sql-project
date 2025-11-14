@@ -63,12 +63,7 @@ This project solves these challenges by creating a relational database and analy
   - This project demonstrates strong SQL capabilities across design, EDA, and analytics.
     
 ### **Author & Contact**
-Dhruba Debnath
-EX - BDA-(DATA) at Urban Company | MBA in Marketing 
-
-Email: dhrubad304@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/dhruba-debnath/?skipRedirect=true
-
-
-
+- Dhruba Debnath
+- EX - BDA-(DATA) at Urban Company | MBA in Marketing 
+- Email: dhrubad304@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruba-debnath/?skipRedirect=true
